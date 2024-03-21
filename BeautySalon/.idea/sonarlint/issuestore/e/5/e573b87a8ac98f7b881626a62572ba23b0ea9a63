@@ -1,0 +1,61 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¨…Æåùÿÿÿÿ8·¦¾å1J$6d909d83-7bf2-4e65-ada9-64fd5c9f7d5b
+~	java:S125""<This block of commented-out lines of code should be removed.(ÎçÉğ8·¦¾å1J$5d20075e-fc26-4ac0-a877-cb0cb92ae6f6
+ƒ	java:S125,"<This block of commented-out lines of code should be removed.(Î¨Åûÿÿÿÿ8ê¬¾å1J$d0db05c3-169e-439e-a54c-c6c353677b2a
+]	java:S1256"<This block of commented-out lines of code should be removed.(úô¾ÿÿÿÿÿ8›Î¯¾å1
+r	java:S106F"+Replace this use of System.out by a logger.(›ó³êıÿÿÿÿ8¼¦¾å1J$f52091e7-42d8-4b78-8e5a-db85e6a7f06f
+m	java:S106G"+Replace this use of System.out by a logger.(äüßí8½¦¾å1J$80e3b9e3-9268-40aa-8686-7d04326ceb7d
+r	java:S106K"+Replace this use of System.out by a logger.(µİĞşÿÿÿÿ8¾¦¾å1J$bac6d457-bfd3-4f7a-aad2-6e3697f2752e
+r	java:S106L"+Replace this use of System.out by a logger.(Ç°³Æøÿÿÿÿ8¾¦¾å1J$9f87ce40-b19d-47df-bc3a-76991cd36653
+m	java:S106P"+Replace this use of System.out by a logger.(¤ì›Ë8À¦¾å1J$3eeaef3e-afbe-4b22-8f65-61f0b552c73d
+r	java:S106Q"+Replace this use of System.out by a logger.(¯èóùüÿÿÿÿ8À¦¾å1J$14ee37af-09bc-49cb-ac3e-f496317c2ff7
+m	java:S106U"+Replace this use of System.out by a logger.(“‘ó8Á¦¾å1J$569d20db-13da-4577-849a-83c315dea68d
+r	java:S106V"+Replace this use of System.out by a logger.(ß¾îÑÿÿÿÿÿ8Á¦¾å1J$82f3e9d4-e72b-40d9-8d20-cd4e897bced8
+r	java:S106Z"+Replace this use of System.out by a logger.(‹ÚıÄşÿÿÿÿ8Ã¦¾å1J$93044840-6f3a-406a-989c-db09d4d06e32
+m	java:S106\"+Replace this use of System.out by a logger.(Áß‡Ü8Ä¦¾å1J$ce9775a9-c505-4720-b006-3cd65912611f
+m	java:S106h"+Replace this use of System.out by a logger.(´Ù‰í8È¦¾å1J$a4b6d572-1b75-4041-89d9-04ea87e56b93
+r	java:S106j"+Replace this use of System.out by a logger.(ºğ¬ïÿÿÿÿÿ8É¦¾å1J$26ab4404-ec09-414d-81c2-bb34e58918c6
+m	java:S106u"+Replace this use of System.out by a logger.(‹Ç€8Ï¦¾å1J$9bf6e387-b80e-4cc4-9e22-35c4012c4e34
+m	java:S106w"+Replace this use of System.out by a logger.(Ò¾Çä8Ò¦¾å1J$16777672-ca31-4663-adbb-cb1e45dccfab
+n	java:S106…"+Replace this use of System.out by a logger.(Õùµñ8Ó¦¾å1J$2e217877-6568-4dcb-9c8f-bc0a1dba996f
+s	java:S106‡"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8¹ç¦¾å1J$4223f108-87be-43e0-b2e7-8cabefad8e1b
+y
+java:S1144@"1Remove this unused private "createClient" method.(ÚÆÒÇıÿÿÿÿ8Ù¦¾å1J$71c21af6-db5d-4823-b2b2-97110f88b7e5
+z
+java:S1144D"2Remove this unused private "getClientById" method.(ùÕÈùúÿÿÿÿ8Ú¦¾å1J$66f7122e-b79a-4c0b-a977-3bc89622f3d5
+€
+java:S1144I"8Remove this unused private "getBeautyMasterById" method.(”¦ì ıÿÿÿÿ8Î¬«¾å1J$6ce61477-2bd6-44ad-8443-0df0df883354
+}
+java:S1144N":Remove this unused private "getAssistanceTypeById" method.(±«–”8Ú¦¾å1J$05998cd4-8a1a-4a22-b740-05d55bb44a15
+y
+java:S1144S"6Remove this unused private "getAssistanceById" method.(ŠÊıë8Ú¦¾å1J$bf0a7917-45e0-483b-ac94-93f0ccbfd9eb
+z
+java:S1144X"2Remove this unused private "getAllClients" method.(§–„Şúÿÿÿÿ8Ú¦¾å1J$8d58e2f1-8213-422e-86fd-f40fd7435a45
+
+java:S1144`"7Remove this unused private "createBeautyMaster" method.(÷í®øÿÿÿÿ8Ú¦¾å1J$2a627d5c-a4ee-40fc-9d74-737a18c8aaa2
+{
+java:S1144f"8Remove this unused private "getAllBeautyMasters" method.(Š³Ì8ô°ª¾å1J$432d2aa6-8c90-443e-9e33-d589fb53e72f
+
+java:S1144n"9Remove this unused private "createAssistanceType" method.(˜ƒ‡ùÿÿÿÿ8ü¬¾å1J$10e9060d-cb2b-4163-a06f-031abbf7ba01
+}
+java:S1144s":Remove this unused private "getAllAssistanceTypes" method.(ÙÉ±Â8“ş«¾å1J$8f37841e-0784-4d64-a035-ea8a7fb28b30
+W
+java:S1144{"5Remove this unused private "createAssistance" method.(·¢ï–şÿÿÿÿ8°Î¯¾å1
+S
+java:S1144ƒ"6Remove this unused private "getAllAssistances" method.(±´¥|8°Î¯¾å1
+z
+java:S1144‹"1Remove this unused private "updateClient" method.(Ëæ²Šÿÿÿÿÿ8Ú¦¾å1J$2b9c7829-3efa-49fc-97ae-46595e5dd637
+€
+java:S1144‘"7Remove this unused private "updateBeautyMaster" method.(Ü­÷üÿÿÿÿ8Ú¦¾å1J$bb7063ff-e77d-4c2b-b3aa-e54d31a1824b
+‚
+java:S1144—"9Remove this unused private "updateAssistanceType" method.(Óˆååüÿÿÿÿ8Ú¦¾å1J$d882f767-616c-462c-a16d-ac0ea6382f61
+~
+java:S1144"5Remove this unused private "updateAssistance" method.(¯¹‹şÿÿÿÿ8Ú¦¾å1J$9492e851-3596-4447-bd76-0593d4038308
+z
+java:S1144£"1Remove this unused private "deleteClient" method.(¥öÍ¼ûÿÿÿÿ8Ú¦¾å1J$ddf50caa-1f39-49de-9bf7-a5e47a3e33a3
+€
+java:S1144§"7Remove this unused private "deleteBeautyMaster" method.(£²¢—ÿÿÿÿÿ8Ú¦¾å1J$010866aa-166b-4af2-b55d-2c0b56501151
+‚
+java:S1144«"9Remove this unused private "deleteAssistanceType" method.(€‰†Èÿÿÿÿÿ8Û¦¾å1J$fd88090d-7527-4d0c-8db4-85c01549864e
+y
+java:S1144¯"5Remove this unused private "deleteAssistance" method.(Çá×8Û¦¾å1J$a6108338-24d2-46f5-a97e-f193f52750cd
